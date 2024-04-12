@@ -1,7 +1,7 @@
 # Project-1-Team-4
 
 Background:
-• Dates: Crime data has been collected from the official Los Angeles City website using APIs. The dataframe time period is from Feb 10, 2024 to Apr XX , 2024.
+• Dates: Crime data has been collected from the official Los Angeles City website using APIs. The dataframe time period is from Feb 10, 2024 to Mar 31 , 2024.
 • Data size: More than 900,000 rows are present in the dataset, collecting over 4 years of crime history from L.A.
 • COVID-19 official start date in California is Mar 11, 2020, when the first death for Coronavirus was reported. (1)
 • COVID-19 official end date in California is Mar 31, 2023, according to the news. (2)
