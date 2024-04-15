@@ -15,10 +15,11 @@ Reserarch question:
 How did COVID-19 affect crime metrics in Los Angeles?
 
 Sub-questions:
-1. Did COVID-19 restrictions affect some victims more than others?.Time versus gender (looking for distribution of crimes) - Brendan Helou
-2. Did COVID-19 restrictions affect some areas of Los Angeles more than others? Time versus geographical areas (looking for distribution of crimes) - Yumai Situ
-3. Did COVID-19 restrictions influence the type of assaults when comitting a crime? Time versus type of assaults (looking for classification of assults such as weapons, etc) - Laura Roa
-4. Did COVID-19 restrictions influence the type of crimes committed? Time versus type of crime (looking for distribution of crimes) - Vaibhav Singh
+1. Did COVID-19 restrictions affect some areas of Los Angeles more than others? Time versus geographical areas (looking for distribution of crimes) - Yumai Situ
+2. Did COVID-19 restrictions influence the type of crimes committed? Time versus type of crime (looking for distribution of crimes) - Vaibhav Singh
+4. Did COVID-19 restrictions influence the type of assaults when comitting a crime? Time versus type of assaults (looking for classification of assults such as weapons, etc) - Laura Roa
+4. Did COVID-19 restrictions affect some victims more than others?.Time versus gender (looking for distribution of crimes) - Brendan Helou
+
 
 
 
