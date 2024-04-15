@@ -12,7 +12,7 @@
   # 490420 - COVID-19 Tests made available to LA residents 
 # **March 01, 2021 - March 01, 2022 ** /// COVID VACC AVAILABLE
   # COVID VACC arrived 131220 (primary workers first; reg. citizens prob pushed to 2021 beginning)
-  # 18082021 - Vaccine proof required for indoor events 
+  # 180821 - Vaccine proof required for indoor events 
 # **March 01, 2022 - March 01, 2023 ** /// COVID BOOSTERS + Regulation uncertainty 
   # June 2022 - Boosters + lifting of mandates 
   # Back and forth / strict mandate Nov 
