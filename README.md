@@ -8,6 +8,8 @@ Background:
 • Crime definition: According to Criminal Justice Information Services, there are 8 main offenses classifications: - Criminal Homicide - Rape, - Robery, - Assault, - Burglary, - Larceny/Theft, - Motor-vehicle theft and Arson. (3)
 • Violent definition: Homicide, Rape, Robbery, Aggravated assaults, Simple assault. (4)
 
+Assumptions:
+• The increase in crime and violence were linked to the changes in COVID restrictions.
 
 Hypothesis:
 As COVID-19 restrictions eased, violent crime in L.A. increased in numbers.
@@ -22,9 +24,6 @@ Sub-questions:
 2. Did COVID-19 restrictions influence the type of crimes committed? Time versus type of crime (looking for distribution of crimes) - Vaibhav Singh
 3. Did COVID-19 restrictions influence the type of assaults when comitting a crime? Time versus type of assaults (looking for classification of assults such as weapons, etc) - Laura Roa
 4. Did COVID-19 restrictions affect some victims more than others?.Time versus gender (looking for distribution of crimes) - Brendan Helou
-
-
-
 
 Sources:
 (1) https://www.nbclosangeles.com/news/coronavirus/2020-2021-california-coronavirus-pandemic-timeline-key-events/2334100/
