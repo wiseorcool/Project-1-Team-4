@@ -1,5 +1,7 @@
 # Project-1-Team-4
+# Submission Details
 
+Please refer to the file "FINAL SUBMISSIONS" and the readme in there for the file(s) we would like graded
 
 Background:
 • Dates: Crime data has been collected from the official Los Angeles City website using APIs. The dataframe time period is from Feb 10, 2024 to Mar 31 , 2024.
