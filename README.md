@@ -36,8 +36,10 @@ Simple assaults increased as COVID restrictions eased by steady 12%.
 Theft of identity increased by 17% since COVID restrictions began.
 As COVID restrictions lessened, crime against minors increased.
 
-How to run the notebook?
-
+Conclusions:
+The data shows a gradual overall increase in crime.
+Crime rate stayed elevated 1 year post COVID SOE end.
+Note: please, refer to the PDF file for the slides to be able to see the statistical analysis to support our conclusion.
 
 Sources:
 (1) https://www.nbclosangeles.com/news/coronavirus/2020-2021-california-coronavirus-pandemic-timeline-key-events/2334100/
